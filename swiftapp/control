@@ -1,0 +1,9 @@
+Package: com.nghianv.swiftapp
+Name: swiftapp
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome application!
+Maintainer: nghianv
+Author: nghianv
+Section: Utilities
+Depends: ${LIBSWIFT}
